@@ -15,3 +15,6 @@ Color - color of the marker
 ---
 Tested on the latest version of the game at the moment - 1.0.17, works for deep north chests as well.
 Due to the way mod is made it would probably work if any new beacons for wishbone would be added to the game.
+
+---
+AI Usage: AI was used to create displaying system, but all code was reviewed by me.
