@@ -1,6 +1,14 @@
 # WishboneHighlight
 This mod adds visual to the wishbone, showing the exact position of the found object, it's name (if known) and distance to it
 
+
+
+|<img src="Images/Meadows.jpg" alt="Логотип" width="300" height="169">|
+|<img src="Images/Meadows_2.jpg" alt="Логотип" width="300" height="169">|
+|<img src="Images/Mountain.jpg" alt="Логотип" width="300" height="169">|
+|<img src="Images/Swamp.jpg" alt="Логотип" width="300" height="169">|
+|<img src="Images/Deep North.jpg" alt="Логотип" width="300" height="169">|
+
 ## Settings
 ### General
 Enabled - determines if the mod is enabled at all
